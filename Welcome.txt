@@ -1,2 +1,5 @@
 Hi there this is my conflict creator file...!
-Hey there conflict is created by changing in file wecome.txt by developer1-1
+
+Hey there conflict is created by changing in file wecome.txt by developer1
+hey there conflict created by changing in file welcome.txt at line 2 by developer-2
+
