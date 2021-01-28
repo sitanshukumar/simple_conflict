@@ -1,1 +1,2 @@
 Hi there this is my conflict creator file...!
+hey there conflict created by changing in file welcome.txt at line 2 by developer-2
